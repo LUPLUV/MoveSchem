@@ -1,0 +1,4 @@
+dev\lupluv\moveschem\utils\FileManager.class
+dev\lupluv\moveschem\commands\CopytoCmd.class
+dev\lupluv\moveschem\MoveSchem.class
+dev\lupluv\moveschem\utils\Strings.class
